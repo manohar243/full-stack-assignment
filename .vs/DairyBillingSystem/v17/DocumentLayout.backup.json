@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|c:\\users\\2431043\\music\\practice dotnet\\dairybillingsystem\\dairybillingsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|solutionrelative:dairybillingsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|c:\\users\\2431043\\music\\practice dotnet\\dairybillingsystem\\dairybillingsystem\\controllers\\milkentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|solutionrelative:dairybillingsystem\\controllers\\milkentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|c:\\users\\2431043\\music\\practice dotnet\\dairybillingsystem\\dairybillingsystem\\repositories\\implementation\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|solutionrelative:dairybillingsystem\\repositories\\implementation\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|c:\\users\\2431043\\music\\practice dotnet\\dairybillingsystem\\dairybillingsystem\\repositories\\interface\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|solutionrelative:dairybillingsystem\\repositories\\interface\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|c:\\users\\2431043\\music\\practice dotnet\\dairybillingsystem\\dairybillingsystem\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|solutionrelative:dairybillingsystem\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|c:\\users\\2431043\\music\\practice dotnet\\dairybillingsystem\\dairybillingsystem\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|solutionrelative:dairybillingsystem\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|c:\\users\\2431043\\music\\practice dotnet\\dairybillingsystem\\dairybillingsystem\\models\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|solutionrelative:dairybillingsystem\\models\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|c:\\users\\2431043\\music\\practice dotnet\\dairybillingsystem\\dairybillingsystem\\models\\dtos\\milkentrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|solutionrelative:dairybillingsystem\\models\\dtos\\milkentrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|c:\\users\\2431043\\music\\practice dotnet\\dairybillingsystem\\dairybillingsystem\\models\\domain\\milkentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|solutionrelative:dairybillingsystem\\models\\domain\\milkentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|c:\\users\\2431043\\music\\practice dotnet\\dairybillingsystem\\dairybillingsystem\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|solutionrelative:dairybillingsystem\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|c:\\users\\2431043\\music\\practice dotnet\\dairybillingsystem\\dairybillingsystem\\data\\dairycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|solutionrelative:dairybillingsystem\\data\\dairycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|c:\\users\\2431043\\music\\practice dotnet\\dairybillingsystem\\dairybillingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|solutionrelative:dairybillingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|c:\\users\\2431043\\music\\practice dotnet\\dairybillingsystem\\dairybillingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|solutionrelative:dairybillingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|c:\\users\\2431043\\music\\practice dotnet\\dairybillingsystem\\dairybillingsystem\\dairybillingsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|solutionrelative:dairybillingsystem\\dairybillingsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|c:\\users\\2431043\\music\\practice dotnet\\dairybillingsystem\\dairybillingsystem\\migrations\\20250913170605_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D241A80D-7B7F-406C-9F1F-01E2B8BCBEB5}|DairyBillingSystem\\DairyBillingSystem.csproj|solutionrelative:dairybillingsystem\\migrations\\20250913170605_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Repositories\\Interface\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "DairyBillingSystem\\Repositories\\Interface\\ITokenRepository.cs",
+              "ToolTip": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Repositories\\Interface\\ITokenRepository.cs",
+              "RelativeToolTip": "DairyBillingSystem\\Repositories\\Interface\\ITokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:30:11.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Repositories\\Implementation\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "DairyBillingSystem\\Repositories\\Implementation\\TokenRepository.cs",
+              "ToolTip": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Repositories\\Implementation\\TokenRepository.cs",
+              "RelativeToolTip": "DairyBillingSystem\\Repositories\\Implementation\\TokenRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:31:25.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MilkEntriesController.cs",
+              "DocumentMoniker": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Controllers\\MilkEntriesController.cs",
+              "RelativeDocumentMoniker": "DairyBillingSystem\\Controllers\\MilkEntriesController.cs",
+              "ToolTip": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Controllers\\MilkEntriesController.cs",
+              "RelativeToolTip": "DairyBillingSystem\\Controllers\\MilkEntriesController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAkwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:37:45.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DairyBillingSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DairyBillingSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAkwFYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:27:49.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Models\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DairyBillingSystem\\Models\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Models\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "DairyBillingSystem\\Models\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:38:22.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Models\\DTOs\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "DairyBillingSystem\\Models\\DTOs\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Models\\DTOs\\LoginResponseDto.cs",
+              "RelativeToolTip": "DairyBillingSystem\\Models\\DTOs\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:38:08.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Models\\DTOs\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "DairyBillingSystem\\Models\\DTOs\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Models\\DTOs\\LoginRequestDto.cs",
+              "RelativeToolTip": "DairyBillingSystem\\Models\\DTOs\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:37:34.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MilkEntryDto.cs",
+              "DocumentMoniker": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Models\\DTOs\\MilkEntryDto.cs",
+              "RelativeDocumentMoniker": "DairyBillingSystem\\Models\\DTOs\\MilkEntryDto.cs",
+              "ToolTip": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Models\\DTOs\\MilkEntryDto.cs",
+              "RelativeToolTip": "DairyBillingSystem\\Models\\DTOs\\MilkEntryDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:39:30.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MilkEntry.cs",
+              "DocumentMoniker": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Models\\Domain\\MilkEntry.cs",
+              "RelativeDocumentMoniker": "DairyBillingSystem\\Models\\Domain\\MilkEntry.cs",
+              "ToolTip": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Models\\Domain\\MilkEntry.cs",
+              "RelativeToolTip": "DairyBillingSystem\\Models\\Domain\\MilkEntry.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:07:48.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Models\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "DairyBillingSystem\\Models\\Domain\\User.cs",
+              "ToolTip": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Models\\Domain\\User.cs",
+              "RelativeToolTip": "DairyBillingSystem\\Models\\Domain\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:56:46.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DairyContext.cs",
+              "DocumentMoniker": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Data\\DairyContext.cs",
+              "RelativeDocumentMoniker": "DairyBillingSystem\\Data\\DairyContext.cs",
+              "ToolTip": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Data\\DairyContext.cs",
+              "RelativeToolTip": "DairyBillingSystem\\Data\\DairyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:09:21.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "DairyBillingSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\appsettings.json",
+              "RelativeToolTip": "DairyBillingSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-07T12:09:53.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "DairyBillingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Program.cs",
+              "RelativeToolTip": "DairyBillingSystem\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:13:46.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250913170605_Intial.cs",
+              "DocumentMoniker": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Migrations\\20250913170605_Intial.cs",
+              "RelativeDocumentMoniker": "DairyBillingSystem\\Migrations\\20250913170605_Intial.cs",
+              "ToolTip": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\Migrations\\20250913170605_Intial.cs",
+              "RelativeToolTip": "DairyBillingSystem\\Migrations\\20250913170605_Intial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:06:05.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DairyBillingSystem.http",
+              "DocumentMoniker": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\DairyBillingSystem.http",
+              "RelativeDocumentMoniker": "DairyBillingSystem\\DairyBillingSystem.http",
+              "ToolTip": "C:\\Users\\2431043\\Music\\Practice dotnet\\DairyBillingSystem\\DairyBillingSystem\\DairyBillingSystem.http",
+              "RelativeToolTip": "DairyBillingSystem\\DairyBillingSystem.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-07T13:51:08.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

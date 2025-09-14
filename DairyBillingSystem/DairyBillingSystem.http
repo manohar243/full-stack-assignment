@@ -1,0 +1,6 @@
+@DairyBillingSystem_HostAddress = http://localhost:5141
+
+GET {{DairyBillingSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
